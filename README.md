@@ -37,9 +37,16 @@
 - **Explore**: Open any project folder in VS Code or Android Studio to inspect code and run it.
 - **Reuse**: Copy smaller examples into new projects to experiment safely.
 
+<<<<<<< HEAD
 ## License & Attribution
 
 - This workspace is a personal learning collection. Add a LICENSE file if you plan to publish or share under a specific license.
+=======
+**License & Attribution**
+- This workspace is a personal learning collection. You can use it freely to learn/use as per your usage..
+
+Creative Commons (CC) — 2025
+>>>>>>> 9ef264f81daabc577a33dea59510d75237b1a51c
 
 Creative Commons (CC) — 2025
 
