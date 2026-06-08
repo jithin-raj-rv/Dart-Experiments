@@ -14,29 +14,44 @@ Here is the fully formatted README file. I have added a dedicated **Project Demo
 
 ## 🎥 Project Demos & Previews
 
-*(Note: On GitHub, these links will automatically expand into embedded video players)*
-
-**Preview 1**
-[https://github.com/user-attachments/assets/8e1cc484-b133-4bd8-ae94-9721891d8897](https://github.com/user-attachments/assets/8e1cc484-b133-4bd8-ae94-9721891d8897)
-
-**Preview 2**
-[https://github.com/user-attachments/assets/40192ccc-6c19-4c3c-b491-810c2b9e456e](https://github.com/user-attachments/assets/40192ccc-6c19-4c3c-b491-810c2b9e456e)
-
-**Preview 3**
-[https://github.com/user-attachments/assets/1fb1600f-c158-4f69-96f7-08384a0293cc](https://github.com/user-attachments/assets/1fb1600f-c158-4f69-96f7-08384a0293cc)
-
-**Preview 4**
-[https://github.com/user-attachments/assets/dbdb62b5-603b-47d3-9a52-b52c0a1eab1f](https://github.com/user-attachments/assets/dbdb62b5-603b-47d3-9a52-b52c0a1eab1f)
-
-**Preview 5**
-[https://github.com/user-attachments/assets/2ab6a0c4-7dc6-4fa0-9a48-ff50cb8e4069](https://github.com/user-attachments/assets/2ab6a0c4-7dc6-4fa0-9a48-ff50cb8e4069)
-
-**Preview 6**
-[https://github.com/user-attachments/assets/cf571d58-b0b5-4ccf-b5d0-a7ebef3672fd](https://github.com/user-attachments/assets/cf571d58-b0b5-4ccf-b5d0-a7ebef3672fd)
-
-**Preview 7**
-[https://github.com/user-attachments/assets/31687dcf-3335-4d36-a9ac-fb84112d2f0c](https://github.com/user-attachments/assets/31687dcf-3335-4d36-a9ac-fb84112d2f0c)
-
+<table>
+  <tr>
+    <td align="center">
+      <b>Preview 1</b><br>
+      <video src="https://github.com/user-attachments/assets/8e1cc484-b133-4bd8-ae94-9721891d8897" width="100%" controls></video>
+    </td>
+    <td align="center">
+      <b>Preview 2</b><br>
+      <video src="https://github.com/user-attachments/assets/40192ccc-6c19-4c3c-b491-810c2b9e456e" width="100%" controls></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Preview 3</b><br>
+      <video src="https://github.com/user-attachments/assets/1fb1600f-c158-4f69-96f7-08384a0293cc" width="100%" controls></video>
+    </td>
+    <td align="center">
+      <b>Preview 4</b><br>
+      <video src="https://github.com/user-attachments/assets/dbdb62b5-603b-47d3-9a52-b52c0a1eab1f" width="100%" controls></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Preview 5</b><br>
+      <video src="https://github.com/user-attachments/assets/2ab6a0c4-7dc6-4fa0-9a48-ff50cb8e4069" width="100%" controls></video>
+    </td>
+    <td align="center">
+      <b>Preview 6</b><br>
+      <video src="https://github.com/user-attachments/assets/cf571d58-b0b5-4ccf-b5d0-a7ebef3672fd" width="100%" controls></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>Preview 7</b><br>
+      <video src="https://github.com/user-attachments/assets/31687dcf-3335-4d36-a9ac-fb84112d2f0c" width="50%" controls></video>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📂 Projects Directory
