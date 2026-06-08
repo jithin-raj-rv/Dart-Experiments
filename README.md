@@ -14,7 +14,7 @@ Here is the fully formatted README file. I have added a dedicated **Project Demo
 
 ## 🎥 Project Demos & Previews
 
-<p align="center">
+
   <video src="https://github.com/user-attachments/assets/8e1cc484-b133-4bd8-ae94-9721891d8897" width="280" controls></video>
   <video src="https://github.com/user-attachments/assets/40192ccc-6c19-4c3c-b491-810c2b9e456e" width="10" controls></video>
   <video src="https://github.com/user-attachments/assets/1fb1600f-c158-4f69-96f7-08384a0293cc" width="280" controls></video>
@@ -22,7 +22,7 @@ Here is the fully formatted README file. I have added a dedicated **Project Demo
   <video src="https://github.com/user-attachments/assets/2ab6a0c4-7dc6-4fa0-9a48-ff50cb8e4069" width="280" controls></video>
   <video src="https://github.com/user-attachments/assets/cf571d58-b0b5-4ccf-b5d0-a7ebef3672fd" width="280" controls></video>
   <video src="https://github.com/user-attachments/assets/31687dcf-3335-4d36-a9ac-fb84112d2f0c" width="280" controls></video>
-</p>
+
 
 ---
 
