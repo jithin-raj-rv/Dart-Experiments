@@ -46,9 +46,6 @@
 - This workspace is a personal learning collection. You can use it freely to learn/use as per your usage..
 
 Creative Commons (CC) — 2025
->>>>>>> 9ef264f81daabc577a33dea59510d75237b1a51c
-
-Creative Commons (CC) — 2025
 
 ---
 Updated: curated list of learning projects and quick start steps.
