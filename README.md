@@ -64,6 +64,7 @@ This workspace is a personal learning collection. You can use it freely to learn
 
 ## 🎥 Project Demos & Previews
 
+
 <table>
   <tr>
     <td align="center">
@@ -91,11 +92,6 @@ This workspace is a personal learning collection. You can use it freely to learn
     <td align="center">
       <video src="https://github.com/user-attachments/assets/31687dcf-3335-4d36-a9ac-fb84112d2f0c" width="100%" controls></video>
     </td>
-    <td align="center">
-      <video src="PASTE_YOUR_SUPABASE_LINK_HERE" width="100%" controls></video>
-    </td>
-    <td>
-      </td>
   </tr>
 </table>
 
