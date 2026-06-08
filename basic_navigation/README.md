@@ -1,16 +1,16 @@
-# next_project
+# next_project (Basic Navigation)
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A Flutter application demonstrating basic navigation and routing. The app includes multiple screens (Homepage, Homescreen, Settings) and uses named routes for page transitions.
 
-This project is a starting point for a Flutter application.
+## Setup
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run

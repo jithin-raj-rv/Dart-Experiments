@@ -1,16 +1,16 @@
-# ai_personal_task_manager
+# ai_personal_task_manager (Login UI)
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A Flutter login UI application that integrates with Supabase for authentication and uses Riverpod for state management. The project demonstrates MVVM architecture with a clean separation of concerns.
 
-This project is a starting point for a Flutter application.
+## Setup
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
