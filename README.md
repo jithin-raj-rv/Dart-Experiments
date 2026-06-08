@@ -32,7 +32,9 @@
 - **Reuse**: Copy smaller examples into new projects to experiment safely.
 
 **License & Attribution**
-- This workspace is a personal learning collection. Add a LICENSE file if you plan to publish or share under a specific license.
+- This workspace is a personal learning collection. You can use it freely to learn/use as per your usage..
+
+Creative Commons (CC) — 2025
 
 ---
 Updated: curated list of learning projects and quick start steps.
