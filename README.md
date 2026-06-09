@@ -60,10 +60,9 @@ This workspace is a personal learning collection. You can use it freely to learn
 
 *Creative Commons (CC) — 2025*
 
-## 🎥 Project Demos & Previews
+---
 
 ## 🎥 Project Demos & Previews
-
 
 <table>
   <tr>
@@ -97,9 +96,5 @@ This workspace is a personal learning collection. You can use it freely to learn
     </td>
   </tr>
 </table>
-
-
-
-
 
 ---
